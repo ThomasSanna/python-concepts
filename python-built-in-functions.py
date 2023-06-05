@@ -1,11 +1,16 @@
 # List of most importants built-in functions:
 
+print("------------------BUILT-IN FUNCTIONS------------------")
 
     # print()	Prints to the standard output device -----------------------------------
 
 print('\n------print-------')
 
 print('Hello World!') # Hello World!
+x = 5
+print('x is', x) # x is 5
+print(f"x is {x}") # x is 5 (f-string)
+print('x is ' + str(x)) # x is 5 (concatenation)
 
 
     # type()	Returns the type of an object -----------------------------------

@@ -1,3 +1,24 @@
+# python-loops
+
+## Description
+The code is a Python script that demonstrates the use of loops in Python.
+
+## List of loops used in this script
+
+- [for loop](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+- [while loop](https://docs.python.org/3/tutorial/controlflow.html#while-statements)
+
+# python-conditional-statements
+
+## Description
+The code is a Python script that demonstrates the use of conditional statements in Python.
+
+## List of conditional statements used in this script
+
+- [if statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+- [if-else statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+- [if-elif-else statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+
 # python-built-in-functions
 
 ## Description
