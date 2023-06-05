@@ -39,7 +39,7 @@ print(type(1), 1, type(bool(1)), bool(1)) # <class 'int'> 1 <class 'bool'> True
 print('\n------list, tuple, set, dict-------')
 
 print(list([1, 2, 3])) # [1, 2, 3]
-print(tuple([1, 2, 3])) # (1, 2, 3)
+print(tuple([1, 2, 3])) # (1, 2, 3) 
 print(set([1, 2, 3])) # {1, 2, 3}
 print(dict([(1, 'one'), (2, 'two'), (3, 'three')])) # {1: 'one', 2: 'two', 3: 'three'}
 print(dict (one=1, two=2, three=3)) # {'one': 1, 'two': 2, 'three': 3}
