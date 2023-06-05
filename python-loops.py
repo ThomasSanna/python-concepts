@@ -1,4 +1,4 @@
-# Python loops tutorial
+# Python loops tutorial by WadeeKT
 
     # For loop ------------------------------------
     
