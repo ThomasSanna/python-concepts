@@ -15,6 +15,7 @@ The code is a Python script that demonstrates the use of conditional statements 
 
 ## List of conditional statements used in this script
 
+- [boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - [if statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 - [if-else statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 - [if-elif-else statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
