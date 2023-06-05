@@ -119,6 +119,14 @@ print(round(5.76543, 2)) # 5.77
 print(round(5.76543)) # 6
 
 
+    # range()	Returns a sequence of numbers, starting from 0 and increments by 1 (by default) -----------------------------------
+    
+print('\n------range-------')
+
+print(range(10)) # range(0, 10)
+print(list(range(10))) # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+
     # sorted()	Returns a sorted list -----------------------------------
 
 print('\n------sorted-------')
@@ -184,10 +192,7 @@ print(list(map(lambda x: x * x, [1, 2, 3, 4, 5, 6]))) # [1, 4, 9, 16, 25, 36]
     
 print('\n------format-------')
 
-print(format(0.5, '%')) # 50.000000%
-print(format(0.5, '.2%')) # 50.00%
-print(format(0.5, '.2f')) # 0.50
-print(format(0.5, '.0f')) # 1
-print(format(0.5, '.0%')) # 50%
-print(format(0.5, '.0e')) # 5e-01
-print(format(0.5, '.0E')) # 5E-01
+print(format(0.5, '%')) # 50.000000% (string)
+print(format(0.5, '.2%')) # 50.00% (string)
+print(format(0.5, '.2f')) # 0.50 (string)
+print(format(0.5, '.0e')) # 5e-01 (string)

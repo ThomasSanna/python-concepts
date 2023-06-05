@@ -33,8 +33,20 @@ for line in file:
     print(line)
 file.close()
 
+print('\n------rstrip-------')
+
 #reading with loop and removing \n
 file = open('test.txt', 'r')
 for line in file:
     print(line.rstrip())
 file.close()
+
+print('\n------split-------')
+
+#reading with splitting
+file = open('test.txt', 'r')
+for line in file:
+    print(line.split())
+file.close()
+
+print('\n------split with loop-------')
