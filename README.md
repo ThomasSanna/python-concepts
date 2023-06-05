@@ -24,7 +24,10 @@ The code is a Python script that demonstrates the use of some of the most import
 - [len()](https://docs.python.org/3/library/functions.html#len)
 - [round()](https://docs.python.org/3/library/functions.html#round)
 - [sorted()](https://docs.python.org/3/library/functions.html#sorted)
+- [reversed()](https://docs.python.org/3/library/functions.html#reversed)
+- [zip()](https://docs.python.org/3/library/functions.html#zip)
 - [enumerate()](https://docs.python.org/3/library/functions.html#enumerate)
+- [filter()](https://docs.python.org/3/library/functions.html#filter)
 - [format()](https://docs.python.org/3/library/functions.html#format)
 
 
