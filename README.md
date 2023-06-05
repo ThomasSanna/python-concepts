@@ -18,6 +18,7 @@ The code is a Python script that demonstrates the use of conditional statements 
 - [if statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 - [if-else statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 - [if-elif-else statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+- [short-hand if statement](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 
 # python-built-in-functions
 
