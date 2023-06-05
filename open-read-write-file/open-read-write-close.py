@@ -10,7 +10,7 @@ file.close() # don't forget to close the file !
 
 #writing in append mode
 file = open('test.txt', 'a') # a = append mode
-file.write(f' [1, 2, 3, 4]')
+file.write(' [1, 2, 3, 4]')
 file.write('\n [5, 6, 7, 8]')
 file.close()
 
