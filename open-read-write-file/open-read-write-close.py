@@ -12,7 +12,7 @@ file.close() # don't forget to close the file !
 file = open('test.txt', 'a') # a = append mode
 file.write(' [1, 2, 3, 4]')
 file.write('\n [5, 6, 7, 8]')
-file.close()
+file.close() 
 
 #reading
 file = open('test.txt', 'r')
