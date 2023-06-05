@@ -1,4 +1,4 @@
-    # open(), read(), write(), close()	Opens, reads, writes and closes files
+    # open(), read(), write(), close()	Opens, reads, writes and closes files-------------------------------
 
 print('\n------open-------')
 
