@@ -49,4 +49,13 @@ for line in file:
     print(line.split())
 file.close()
 
-print('\n------split with loop-------')
+print('\n------split with loop-------') 
+
+#reading with splitting and loop
+file = open('test.txt', 'r')
+for line in file:
+    words = line.split()
+    print(words)
+    for word in words:
+        print(word)
+file.close()
