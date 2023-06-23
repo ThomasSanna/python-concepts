@@ -244,3 +244,15 @@ print(chr(65).lower()) # a (string)
 print(chr(97)) # a (string)
 print(chr(80)) # P (string)
 print(chr(80).lower()) # p (string)
+print(chr(112)) # p (string)
+
+
+    # ord()	Returns the Unicode code of a specified character -----------------------------------
+    
+print('\n------ord-------')
+
+print(ord('A')) # 65 (int)
+print(ord('a')) # 97 (int)
+print(ord('P')) # 80 (int)
+print(ord('p')) # 112 (int)
+
