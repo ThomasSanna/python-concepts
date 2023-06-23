@@ -233,3 +233,14 @@ print('\n------ascii-------')
 
 print(ascii('Hello, World!')) # 'Hello, World!' (string)
 print(ascii('Héllò, Wórld!')) # 'H\xe9ll\xf2, W\xf3rld!' (string)
+
+
+    # chr()	Returns a character from the specified Unicode code. -----------------------------------
+    
+print('\n------chr-------')
+
+print(chr(65)) # A (string) (see on https://unicode-table.com/en/#basic-latin then Alt code)
+print(chr(65).lower()) # a (string)
+print(chr(97)) # a (string)
+print(chr(80)) # P (string)
+print(chr(80).lower()) # p (string)
