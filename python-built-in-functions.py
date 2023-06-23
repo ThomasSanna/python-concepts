@@ -211,3 +211,11 @@ print(bin(5)) # 0b101 (string)
 print(bin(5)[2:]) # 101 (string)
 
 
+    # hex()	Returns the hexadecimal version of a number -----------------------------------
+    
+print('\n------hex-------')
+
+print(hex(10)) # 0xa (string)
+print(hex(10)[2:]) # a (string)
+
+
