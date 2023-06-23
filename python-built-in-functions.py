@@ -225,3 +225,11 @@ print('\n------oct-------')
  
 print(oct(10)) # 0o12 (string)
 print(oct(10)[2:]) # 12 (string)
+
+
+    # ascii()	Returns a readable version of an object. Replaces none-ascii characters with escape character -----------------------------------
+    
+print('\n------ascii-------')
+
+print(ascii('Hello, World!')) # 'Hello, World!' (string)
+print(ascii('Héllò, Wórld!')) # 'H\xe9ll\xf2, W\xf3rld!' (string)
