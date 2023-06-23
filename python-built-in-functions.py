@@ -201,3 +201,13 @@ print(format(0.5, '%')) # 50.000000% (string)
 print(format(0.5, '.2%')) # 50.00% (string)
 print(format(0.5, '.2f')) # 0.50 (string)
 print(format(0.5, '.0e')) # 5e-01 (string)
+
+
+    # bin()	Returns the binary version of a number -----------------------------------
+    
+print('\n------bin-------')
+
+print(bin(5)) # 0b101 (string)
+print(bin(5)[2:]) # 101 (string)
+
+
