@@ -219,3 +219,9 @@ print(hex(10)) # 0xa (string)
 print(hex(10)[2:]) # a (string)
 
 
+    # oct()	Returns the octal version of a number -----------------------------------
+    
+print('\n------oct-------')
+ 
+print(oct(10)) # 0o12 (string)
+print(oct(10)[2:]) # 12 (string)
